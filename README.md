@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1Hilalcelik
 - 📚Ardahan Üniversitesi
 - 👩🏻‍💻Bilgisayar Programcılığı
-- Web Tasarım Geliştirici
+- 
 
 <!---
 1Hilalcelik/1Hilalcelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
